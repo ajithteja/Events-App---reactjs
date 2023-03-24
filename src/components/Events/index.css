@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+.main-bg-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.events-container {
+  background-color: #323f4b;
+  width: 68%;
+  padding: 26px;
+}
+
+.main-heading {
+  font-family: 'roboto';
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.events-ul-container {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
